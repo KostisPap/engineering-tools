@@ -1,0 +1,18 @@
+# Build output / IDE
+bin/
+obj/
+.vs/
+*.suo
+*.user
+*.userprefs
+
+# Python
+__pycache__/
+*.pyc
+
+# Data and results are not part of this repository
+*.xlsx
+*.csv
+*.dat
+*.out
+*.pycf

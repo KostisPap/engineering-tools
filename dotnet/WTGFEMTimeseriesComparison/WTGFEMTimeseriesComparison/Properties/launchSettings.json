@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "WTGFEMTimeseriesComparison": {
+      "commandName": "Project",
+      "workingDirectory": "REPLACE_WITH_PATH_TO_DATA_FOLDER"
+    }
+  }
+}
